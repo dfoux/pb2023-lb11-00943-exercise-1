@@ -1,0 +1,25 @@
+
+21 base pair sequence that contains 4 ambiguities:
+atgtgttkttvtstdgaataa
+
+Possible unambiguous sequence 1:
+atgtgttgttatctagaataa
+
+Possible unambiguous sequence 2:
+atgtgtttttctgtagaataa
+
+Possible unambiguous sequence 3:
+atgtgtttttatctagaataa
+
+Reverse of possible unambiguous sequence 1:
+aataagatctattgttgtgta
+
+Complement of possible unambiguous sequence 1:
+tacacaacaatagatcttatt
+
+Reverse-complement of possible unambiguous sequence 1:
+ttattctagataacaacacat
+
+Amino-acid chain produced:
+MCCYLE-
+
